@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/Kathryn-Jie/scarolayton/blob/main/WhatsApp Image 2023-09-27 at 9.50.24 PM-fotor-20230927215551.png">
 </p>
 
 <h1> Hello Fellow < Developers/ >! or recruiters 😉</h1>
