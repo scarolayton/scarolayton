@@ -17,13 +17,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  No country
+- 🔭 I’m currently working on VelezReyez+ 💜
   
-- 🌱 I’m currently learning Typescript and Node
+- 🌱 I’m currently learning Linux and AWS
   
-- 👯 I’m looking to get a job as a frontend developer
+- 👯 I’m looking to get a job as a Software Developer
   
-- 💬 Ask me about Javascript, CSS, HTML, React
+- 💬 Ask me about Javascript, CSS, HTML, React, and TypeScript
   
 - ⚡ Fun fact: I love the science 🧪.
 
