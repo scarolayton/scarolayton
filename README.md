@@ -17,9 +17,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on ForUsAll 
+- 🔭 I’m currently working at ForUsAll 
   
-- 🌱 I’m currently learning   AWS Bedrock
+- 🌱 I’m currently learning  AWS Bedrock
   
 - 👯 I’m looking to get a new job as a Software Developer
   
