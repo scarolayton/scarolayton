@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on VelezReyez+ 💜
   
-- 🌱 I’m currently learning Linux and AWS
+- 🌱 I’m currently learning   AWS Bedrock
   
-- 👯 I’m looking to get a job as a Software Developer
+- 👯 I’m looking to get a new job as a Software Developer
   
-- 💬 Ask me about Javascript, CSS, HTML, React, and TypeScript
+- 💬 Ask me about Javascript, CSS, HTML, React, Ruby on Rails, and TypeScript
   
 - ⚡ Fun fact: I love the science 🧪.
 
@@ -35,6 +35,7 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/sergio-eduardo-caro-layton/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
